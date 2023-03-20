@@ -1,0 +1,4 @@
+.idea/
+setting.py
+__pycache__/
+client_secrets.json
